@@ -13,3 +13,7 @@
 [![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
+
+## Find me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jennifer-diaz-correa/?locale=en_US)
+</br>
