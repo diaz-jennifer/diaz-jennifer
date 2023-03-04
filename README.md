@@ -11,5 +11,5 @@
 ## Skills:
 [![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
