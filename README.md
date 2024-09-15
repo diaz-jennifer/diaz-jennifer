@@ -3,7 +3,7 @@
 <!--
 **diaz-jennifer/diaz-jennifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🌱 Actualmente estoy cursando los módulos de Programación e Inglés técnico II.
+🌱 Actualmente estoy cursando 2do de DAM.
 
 📫 Me puedes encontrar en : aludia8032@ieselcaminas.org o en jendiacor@alu.edu.gva.es
 
